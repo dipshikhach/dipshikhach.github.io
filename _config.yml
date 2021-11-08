@@ -11,15 +11,15 @@ description: A blog about technology and stuff
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/IMG-20190322-WA0002.jpg
-#https://github.com/Mainak1792/Mainak1792.github.io/blob/main/assets/IMG_7969.JPG
+picture: assets/pp.jpg
+#https://github.com/dipshikhach/dipshikhach.github.io/blob/main/assets/pp.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/file/d/1M7D0SKLshusJ505TGt-bTdDG0AuTwiWv/view?usp=sharing
+resume-url: assets/CV_DIPSHIKHA%20CHAKRABORTY.pdf
 
-url: https://Mainak1792.github.io
+url: https://dipshikhach.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -38,22 +38,22 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: mainak_1996
+twitter: DipshikhaChakr2
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: mainak001
+linkedin: dipshikhachakraborty1
 # youtube: myyoutube
 # spotify: myspotify
-github: Mainak1792
+#github: Mainak1792
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: mainak1996
+#medium: mainak1996
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: mainakchakraborty92@gmail.com
+email: dipshikhachakraborty25@gmail.com
 
 authors:
   johndoe:
@@ -87,7 +87,7 @@ projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
